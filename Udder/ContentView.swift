@@ -18,6 +18,7 @@ struct ContentView: View {
             Text("Fresh Milk, On Demand.")
             Spacer()
             Image("cow").resizable().aspectRatio(contentMode: .fit)
+            // comment
         }
     }
 }
